@@ -1,0 +1,55 @@
+body{
+  background-image: url("../img/fond.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+}
+
+.slogan{
+  margin-top: 2%;
+  height: 20%;
+  font-size: 18pt;
+  color: white;
+}
+
+.recherche{
+  margin-top: 2%;
+  height: 30%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.go{
+  text-align: right;
+  padding-right: 10%;
+}
+
+.go a{
+  color: rgb(255, 255, 255);
+  font-size: 14pt;
+}
+
+.title-combobox{
+  font-size: 14pt;
+  color: black;
+  text-align: center;
+}
+
+.title-combobox p{
+  color: white;
+}
+
+form{
+  background-color: rgba(255,255,255,0.5);
+  border: solid;
+  border-color: rgba(255,255,255,0.5);
+  border-radius: 20px;
+  display: block;
+  text-align: center;
+  padding: 10 10;
+}
+
+.resultats div{
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
